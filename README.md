@@ -10,14 +10,18 @@ It lets you build a [directed graph](https://en.wikipedia.org/wiki/Orientation_(
 
 # Content
 
-The project contains four files where the ```index.html``` **is the entry point** (you have to open it with your browser) :
+The project contains nine files where the ```index.html``` **is the entry point** (you have to open it with your browser) :
 
 - ```index.html``` (main entry point)
 - ```jquery.min.js``` (JQuery 3.3.1 minified version)
-- ```vis.min.js``` (vis minified version)
-- ```vis.min.css``` (vis styles minified version)
+- ```LICENSE```
 - ```main.js``` (algorithms and some other functions)
 - ```main.css``` (simple styles for the HTML)
+- ```screenshot_1.png```
+- ```README```
+- ```vis.min.js``` (vis minified version)
+- ```vis.min.css``` (vis styles minified version)
+
 
 ``main.js`` is written using some constructions of the emerging standard ES6 (also called ECMAScript 2015) so **it can be opened with any browser that supports this standard**. For example I tested it on Google Chrome Versión 75.0.3770.142. If you are interested in ES6 you can find a very nice book here: https://leanpub.com/understandinges6/read
 
