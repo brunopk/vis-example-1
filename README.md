@@ -29,6 +29,10 @@ The vis library can be downloaded from it's [oficial site](https://visjs.org/) o
 
 For this project I used the ``Network`` and ``DataSet`` components. For more information about those components look at the [examples](https://visjs.github.io/vis-network/examples/) and the [oficial documentation of the Network component](https://visjs.github.io/vis-network/docs/network/) on the vis's site.
 
+# Screenshots
+
+!(https://github.com/brunopk/vis-example-1/blob/master/screenshot_1.png)
+
 # Bugs and further improvements
 
 When trying to display a 5-node graph with this cost's matrix :
