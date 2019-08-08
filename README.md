@@ -31,7 +31,7 @@ For this project I used the ``Network`` and ``DataSet`` components. For more inf
 
 # Screenshots
 
-!(https://github.com/brunopk/vis-example-1/blob/master/screenshot_1.png)
+![](https://github.com/brunopk/vis-example-1/blob/master/screenshot_1.png)
 
 # Bugs and further improvements
 
